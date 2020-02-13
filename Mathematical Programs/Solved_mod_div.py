@@ -1,0 +1,11 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+a = int(input())
+b = int(input())
+#l = (lambda a, b: a//b)
+l = (a//b)
+#m = (lambda a, b: a%b)
+m = (a%b)
+n = (l,m)
+print(l)
+print(m)
+print(n)
