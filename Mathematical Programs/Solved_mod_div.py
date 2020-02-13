@@ -1,11 +1,13 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-a = int(input())
-b = int(input())
-#l = (lambda a, b: a//b)
-l = (a//b)
-#m = (lambda a, b: a%b)
-m = (a%b)
-n = (l,m)
-print(l)
-print(m)
-print(n)
+"""if __name__ == '__main__':
+    n = int(input())
+    i = 0
+    temp = 0
+    for i in range(i,n):
+        temp = temp + n*(pow(10,i))        
+        i = i+1
+        n = n-1
+    print(temp)"""
+
+if __name__ == '__main__':
+    n = int(input())
+    print(*range(1, n + 1), sep='')
