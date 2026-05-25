@@ -5,7 +5,7 @@ Project Structure
 Guess_number.py: Contains the main game logic.
 
 Installation
-Clone the repository:
+Clone the repository: https://github.com/apoorvgupta21/Python/tree/master/Numer_Guessing_Game
 
 git clone https://github.com/apoorvgupta21/Python/tree/master/Numer_Guessing_Game
 cd number-guessing-game
