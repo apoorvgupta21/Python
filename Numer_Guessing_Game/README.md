@@ -6,8 +6,8 @@ Guess_number.py: Contains the main game logic.
 
 Installation
 Clone the repository: https://github.com/apoorvgupta21/Python/tree/master/Numer_Guessing_Game
-https://roadmap.sh/projects/number-guessing-game
+
 
 git clone https://github.com/apoorvgupta21/Python/tree/master/Numer_Guessing_Game
 cd number-guessing-game
-Execute Guess_number.py file
+https://roadmap.sh/projects/number-guessing-game
