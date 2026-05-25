@@ -5,6 +5,9 @@ Welcome to the Number Guessing Game! This is a CLI-based game where the user has
 ## Project Structure
 Guess_number.py: Contains the main game logic.
 
+# Project URL:
+https://roadmap.sh/projects/number-guessing-game
+
 ## Installation
 
 Clone the repository:
@@ -12,4 +15,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/number-guessing-game.git
 cd number-guessing-game
-https://roadmap.sh/projects/number-guessing-game
+
